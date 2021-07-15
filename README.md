@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola a todos 👋
+
+<img src="https://drive.google.com/file/d/1ZHxSfIBWdKpahIcRjY7aKiZi-Jo3NPWu/view?usp=sharing"/>
+
+✨ Desarrolladora web, enfocada en el área frontend, apasionada por el diseño creativo de aplicaciones, que generen un ambiente positivo y amigable con el usuario ✨
 
 <!--
 **tatiroa994/tatiroa994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
