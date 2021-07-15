@@ -2,7 +2,7 @@
 
     Hola a todos 👋
 
-    ✨ Desarrolladora web, apasionada por el diseño creativo de aplicaciones, 
+    ✨ Soy desarrolladora web, apasionada por el diseño creativo de aplicaciones, 
     Me encanta estar en un mundo cambiante, que constantemente me reta a transformarme
     y adaptarme a estos cambios, por ello elegí el camino tecnológico✨
     
