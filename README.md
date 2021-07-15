@@ -1,20 +1,12 @@
-### Hola a todos 👋
+<img width=190 align="left" src="./img/tati.png"/>
 
-<img src="https://drive.google.com/file/d/1ZHxSfIBWdKpahIcRjY7aKiZi-Jo3NPWu/view?usp=sharing"/>
+               # Hola a todos 👋
 
-✨ Desarrolladora web, enfocada en el área frontend, apasionada por el diseño creativo de aplicaciones, que generen un ambiente positivo y amigable con el usuario ✨
+    ✨ Desarrolladora web, apasionada por el diseño creativo de aplicaciones, Me encanta estar en un mundo cambiante, que constantemente me reta a transformarme y adaptarme a estos cambios, por ello elegí el camino tecnológico✨
+    
+     💛 Estudiante de Laboratoria 
+     🌱 Aprendiendo Angular 
+     ✨ Me encanta el lettering
+     🤗 Cada día adquiriendo conocimientos
 
-<!--
-**tatiroa994/tatiroa994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
