@@ -7,7 +7,7 @@
     y adaptarme a estos cambios, por ello elegí el camino tecnológico✨
     
      💛 Estudiante de Laboratoria 
-     🌱 Aprendiendo Angular 
+     🌱 Aprendiendo cada día
      ✨ Me encanta el lettering
      🤗 Cada día adquiriendo conocimientos
 
